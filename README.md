@@ -20,7 +20,7 @@ The following REQUIRED features are completed:
 
 - [x] At least one (1) user input
 - [x] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [x] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
@@ -46,7 +46,7 @@ GIF created with GIPHY
 
 ## Notes
 
-App still in progress.
+I managed to understand how to work with EditText views. I also worked with interactive functions that would trigger based on a user's interaction.
 
 ## License
 
