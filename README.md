@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features so far:
 
-<img src='https://im.ezgif.com/tmp/ezgif-1-635d1f8f42.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY2ZWI1ZGZiNGY3OWIxNTJhODRlMjAxMzM0NzEyN2Q1OTg0MDRlYyZjdD1n/ooC2reC5Tpc86eVJGp/giphy.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with EzGIF
+GIF created with GIPHY
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
